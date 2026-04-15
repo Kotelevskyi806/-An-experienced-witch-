@@ -1,2 +1,8 @@
-# An experienced witch
-Мой первый проект на Python. Сделал ради фана.  Консольная гадалка на таро: тянет 3 карты (прошлое, настоящее, будущее), добавляет реакции и интерпретации. Есть эффект “живой речи” и реакции на пустой ввод. 
+# Experienced-Witch
+
+CLI tarot reading app written in Python.
+
+Features:
+- random card draw
+- dynamic text interpretation
+- input-aware responses (empty / invalid input)
